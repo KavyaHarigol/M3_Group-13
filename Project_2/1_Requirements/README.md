@@ -7,12 +7,12 @@
   two clicks on the board. Displaying of car battery info is implemented in this project by showing all LED on in clockwise direction on three clicks and door status is shown by
   all LED on in anti-clockwise direction on four clicks on the STM board.
   
-# 1.2 SWOT Analysis
+## 1.2 SWOT Analysis
 
 ![Screenshot (292)](https://user-images.githubusercontent.com/42509490/157890123-973f89c5-c917-4acc-a0fc-30f924fd807e.png)
 
 
-# 1.3 5W's and 1H
+## 1.3 5W's and 1H
 
 ![Screenshot (293)](https://user-images.githubusercontent.com/42509490/157894011-c2e0d5e4-c2b9-4d57-9d15-df6977a8cec7.png)
 
