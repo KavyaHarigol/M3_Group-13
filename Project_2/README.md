@@ -1,7 +1,7 @@
 # BICom System
 
 ## Introduction
-BiCom system is a communication system between the car and its remote(Keyfob). The system gets this name as it performs two way communication (i.e) from remote to car and car to remote.This project is an extension of previous project. In the previous project we had seen unidirectional communication from remote to car while in this project we would see bi-directional communication from remote to car and vice versa. The functionalities here are the Window status, alarm status, car battery information, door status.These four functionalities will be implemented in this project.
+BiCom system is a communication system between the car and its remote. The system gets this name as it performs two way communication (i.e) from remote to car and car to remote.This project is an extension of previous project. In the previous project we had seen unidirectional communication from remote to car while in this project we would see bi-directional communication from remote to car and vice versa. The functionalities here are the Window status, alarm status, car battery information, door status.These four functionalities will be implemented in this project.
 ## Workflows
 | CppCheck | Build | Git Inspector| Codacy | Codiga | 
 | ----- | -------- | -------|---|---|
