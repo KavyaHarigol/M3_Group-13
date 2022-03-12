@@ -17,11 +17,6 @@ BiCom system is a communication system between the car and its remote. The syste
 | `5_Report` | Report containing all readme files and code |
 | `6_ImagesAndVideos` | Images and Videos of the project |
 
-## Contributors List and Summary
-| PS No.  | Name | Features | Issuess Raised | Issues Resolved | No Test Cases | Test Case Pass |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-
 ## Challenges Faced and How Was It Overcome
 | No. | Challenges | Solutions |
 | --- | --- | ---|
